@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>f</servlet-name>
+<jsp-file>/first.jsp</jsp-file>
+<load-on-startup>1</load-on-startup>
+</servlet>
+<servlet-mapping>
+<servlet-name>f</servlet-name>
+<url-pattern>/firsturl</url-pattern>
+</servlet-mapping>
+</web-app>
