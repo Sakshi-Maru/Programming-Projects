@@ -1,0 +1,47 @@
+{"properties": [
+  {
+    "name": "lab.echo2DPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'lab.echo2DPrice'"
+  },
+  {
+    "name": "lab.rtcprPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'lab.rtcprPrice'"
+  },
+  {
+    "name": "hsptl.name",
+    "type": "java.lang.String",
+    "description": "A description for 'hsptl.name'"
+  },
+  {
+    "name": "lab.bpPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'lab.bpPrice'"
+  },
+  {
+    "name": "hsptl.age",
+    "type": "java.lang.String",
+    "description": "A description for 'hsptl.age'"
+  },
+  {
+    "name": "lab.bpPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'lab.bpPrice'"
+  },
+  {
+    "name": "lab.bpPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'lab.bpPrice'"
+  },
+  {
+    "name": "lab.echo2DPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'lab.echo2DPrice'"
+  },
+  {
+    "name": "lab.echo2DPrice",
+    "type": "java.lang.String",
+    "description": "A description for 'lab.echo2DPrice'"
+  }
+]}
